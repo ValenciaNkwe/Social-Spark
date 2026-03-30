@@ -5,6 +5,8 @@
  <ol>DESCRIPTION</ol>
 
  <ol>ABOUT</ol> 
- 
+ The app priovides social interaction suggestions, based on the users input time of the day.
   <ol>HOW IT WORKS</ol> 
+  The app will use if statements to determine which spark to suggest.
  <ol>why it's important</ol>
+The app is important because it helps people that forget easily, and for people who want to keep track of time.
